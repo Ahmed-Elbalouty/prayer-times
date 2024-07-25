@@ -1,8 +1,8 @@
-# React + Vite
+# prayer-times
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is to know the prayer times in the governorates of Egypt and to know the time remaining for the next prayer using HTML, CSS, JS, React js, Material UI library and   Moment.js library.<br><br>
+ And this link for my project live show [prayer-times](prayer-times.surge.sh)<br><br>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+ 
